@@ -31,8 +31,20 @@ font-size: 18px;
 color:#5c5c5c;
 margin-top: 20px;
 }
+.location{
+color:#FFF;
+margin-top:10px;
+font-size: 16px;
+text-align:left;
+}
+
+.sponsor{
+color:#da4b3f;
+margin-top:10px;
+}
+
 a {
-	color: #333;
+	color: #999;
 	text-decoration:none;
 	-o-transition:.5s;
   -ms-transition:.5s;
@@ -102,7 +114,7 @@ list-style: none;
 margin: 0 0 15px 0;
 }
 
-#header, #intro, #second{
+#header, #intro, #second, #next{
 width: 100%;
 }
 
@@ -118,6 +130,22 @@ margin: 0 auto;
 padding: 0;
 }
 
+#next{
+margin-top:-100px;
+background-color: rgba(0, 0, 0, 0.5);
+color: white;
+height: 100px;
+overflow: hidden;
+padding: 0;
+}
+
+.nextmeeting{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
 #second{
 background:url(../images/clean_textile.png) repeat;
 color: white;
@@ -126,6 +154,7 @@ margin: 0 auto;
 overflow: hidden;
 padding: 0;
 }
+
 
 @media (min-width: 769px) {
 
@@ -146,6 +175,7 @@ height: 600px !important;
 
 #third{
 background: url(../images/leiden.jpg) 50% 0 no-repeat fixed;
+background-size:cover;
 color: white;
 height: 600px;
 padding: 100px 0 0 0;
@@ -154,6 +184,7 @@ overflow: hidden;
 
 #fourth{
 background:url(../images/clean_textile.png) repeat;
+background-size:cover;
 color: white;
 height: 1000px;
 margin: 0 auto;
@@ -162,6 +193,7 @@ padding: 0;
 }
 #fifth{
 background:url(../images/leiden2.jpg) 50% 0% no-repeat fixed;
+background-size:cover;
 height: 600px;
 overflow: hidden;
 -webkit-background-size: cover;
@@ -171,6 +203,7 @@ background-size: cover;
 }
 #sixth{
 background:url(../images/clean_textile.png) repeat;
+background-size:cover;
 color: white;
 height: 1000px;
 margin: 0 auto;
