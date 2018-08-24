@@ -1,5 +1,4 @@
-# OpenML Meetings
-<img src="https://cdn-images-1.medium.com/max/2000/0*hDC2EUK1gDIsW1QK." alt="OpenML" width="200"/>
+<img src="https://cdn-images-1.medium.com/max/2000/0*hDC2EUK1gDIsW1QK." alt="OpenML" width="200"/> meetings
 
 [Next meeting: Paris (September 17-21, 2018)](https://openml.github.io/meet/)
 
