@@ -39,6 +39,6 @@ See the Google Doc that should be [linked from the workshop website](https://ope
 
 ### Twitter, Pictures, ...
 
-Please feel free to take photos and tweet about the event. Mention [@open_ml](https://twitter.com/open_ml)  
+Please feel free to take photos and tweet about the event. Please mention [@open_ml](https://twitter.com/open_ml)  
 
 Send pictures to openmachinelearning@gmail.com. [We'll upload them here](https://www.flickr.com/photos/159879889@N02)
