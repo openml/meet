@@ -1,4 +1,4 @@
-![openml](https://cdn-images-1.medium.com/max/2000/0*hDC2EUK1gDIsW1QK.) 
+<img src="https://cdn-images-1.medium.com/max/2000/0*hDC2EUK1gDIsW1QK." alt="OpenML" width="200"/>
 
 # OpenML Meetings
 [Next meeting: Paris (September 17-21, 2018)](https://openml.github.io/meet/)
@@ -37,7 +37,8 @@ See the Google Doc that should be [linked from the workshop website](https://ope
 
 ---
 
-### Twitter
+### Twitter, Pictures, ...
 
-Please feel free to take photos and tweet about the event. Mention [@open_ml](https://twitter.com/open_ml)
+Please feel free to take photos and tweet about the event. Mention [@open_ml](https://twitter.com/open_ml)  
+
 Send pictures to openmachinelearning@gmail.com. [We'll upload them here](https://www.flickr.com/photos/159879889@N02)
