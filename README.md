@@ -1,5 +1,5 @@
 # Meet OpenML!
-[Next meeting: Paris (September 17-21, 2018)](https://openml.github.io/meet/)
+[Overview of upcoming meetings](https://openml.github.io/meet/)
 
 ---
 
