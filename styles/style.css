@@ -206,7 +206,7 @@ padding: 0;
 }
 
 @media only screen and (max-width: 768px) {
-    #second, #fourth, #sixth {
+    #second, #fourth {
       height: 750px !important;
     }
 }
