@@ -32,7 +32,7 @@ color:#5c5c5c;
 margin-top: 20px;
 }
 .location{
-color:#FFF;
+color:#333;
 margin-top:10px;
 font-size: 16px;
 text-align:left;
@@ -166,11 +166,6 @@ height: 500px !important;
 height: 500px !important;
 }
 
-#sixth{
-height: 600px !important;
-}
-
-
 }
 
 #third{
@@ -205,7 +200,6 @@ background-size: cover;
 background:url(../images/clean_textile.png) repeat;
 background-size:cover;
 color: white;
-height: 1000px;
 margin: 0 auto;
 overflow: hidden;
 padding: 0;
@@ -227,7 +221,6 @@ padding: 0;
       margin-bottom: 150px;
     }
     #sixth {
-      height: 900px !important;
     }
     #third {
         background-image: url(../images/thirdBG_sm.jpg);
@@ -254,6 +247,12 @@ margin: 0 auto;
 overflow: auto;
 }
 
+.img-tall{
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .img-wedding{
     max-height: 300px;
     margin-left: auto;
@@ -272,6 +271,12 @@ overflow: auto;
     margin-right: auto;
     display: block;
     margin: 40px;
+}
+
+.img-center-flush{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .mobile body {
