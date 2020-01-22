@@ -169,7 +169,7 @@ height: 500px !important;
 }
 
 #third{
-background: url(../images/leiden.jpg) 50% 0 no-repeat fixed;
+background: url(../images/dagstuhl2.jpg) 50% 0 no-repeat fixed;
 background-size:cover;
 color: white;
 height: 600px;
@@ -187,7 +187,7 @@ overflow: hidden;
 padding: 0;
 }
 #fifth{
-background:url(../images/leiden2.jpg) 50% 0% no-repeat fixed;
+background:url(../images/dagstuhl.jpg) 50% 0% no-repeat fixed;
 background-size:cover;
 height: 600px;
 overflow: hidden;
@@ -223,11 +223,11 @@ padding: 0;
     #sixth {
     }
     #third {
-        background-image: url(../images/leiden.jpg);
+        background-image: url(../images/dagstuhl2.jpg);
         height: 400px;
     }
     #fifth {
-        background-image: url(../images/leiden2.jpg);
+        background-image: url(../images/dagstuhl.jpg);
         height: 400px;
         margin-top: -150px;
     }
