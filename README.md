@@ -16,7 +16,7 @@
 
 #### 3. Get familiar with OpenML
 - [Go through the Bootcamp](https://docs.openml.org/)
-- Read up on other information relevant to you (e.g. how the [API's])https://docs.openml.org/APIs/) work)
+- Read up on other information relevant to you (e.g. how the [API's](https://docs.openml.org/APIs/) work)
 - If something is not clear or wrong in the docs, please [fix it](https://docs.openml.org/OpenML-Docs/)
 - If you can't fix it yourself, [create a github issue](https://github.com/openml/OpenML/issues)
 
