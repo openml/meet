@@ -177,7 +177,7 @@ padding: 100px 0 0 0;
 overflow: hidden;
 }
 
-#fourth{
+#fourth, #sixth{
 background:url(../images/clean_textile.png) repeat;
 background-size:cover;
 color: white;
@@ -186,7 +186,7 @@ margin: 0 auto;
 overflow: hidden;
 padding: 0;
 }
-#fifth{
+#fifth, #seventh{
 background:url(../images/dagstuhl.jpg) 50% 0% no-repeat fixed;
 background-size:cover;
 height: 600px;
@@ -196,7 +196,7 @@ overflow: hidden;
 -o-background-size: cover;
 background-size: cover;
 }
-#sixth{
+#eighth{
 background:url(../images/clean_textile.png) repeat;
 background-size:cover;
 color: white;
